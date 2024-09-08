@@ -2,7 +2,7 @@
   "name": "sharu-react-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://patansharukhan.github.io/sharu-react-blog/",
+  "homepage": "https://patansharukhan.github.io/sharu-react18.3-blog/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
